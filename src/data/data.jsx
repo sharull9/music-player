@@ -1,0 +1,121 @@
+import image1 from "../../public/assets/latestRelease/Gunehgar.jpg";
+import image2 from "../../public/assets/latestRelease/Hard Drive.jpg";
+import image3 from "../../public/assets/latestRelease/Music To Be Murdered By.jpg";
+import image4 from "../../public/assets/latestRelease/Nayaab.jpg";
+import image5 from "../../public/assets/latestRelease/Open Letter.webp";
+import image6 from "../../public/assets/latestRelease/Time Will Tell.jpg";
+
+export const data = [
+  {
+    name: "Sitaara",
+    time: "today",
+    src: image1,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Divine Ft. Jonita Gandhi",
+  },
+  {
+    name: "F-16",
+    time: "today",
+    src: image2,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Raftaar Ft. Sikhander Khalon",
+  },
+  {
+    name: "Zeus",
+    time: "today",
+    src: image3,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Eminem",
+  },
+  {
+    name: "Batti",
+    time: "today",
+    src: image4,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Seedhe Maut Ft. AB17",
+  },
+  {
+    name: "Two Tone",
+    time: "today",
+    src: image5,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Talha Anjum",
+  },
+  {
+    name: "Kha Se Kha Tak",
+    time: "today",
+    src: image6,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "KR$NA",
+  },
+  {
+    name: "Sitaara",
+    time: "today",
+    src: image1,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Divine Ft. Jonita Gandhi",
+  },
+  {
+    name: "F-16",
+    time: "today",
+    src: image2,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Raftaar Ft. Sikhander Khalon",
+  },
+  {
+    name: "Zeus",
+    time: "today",
+    src: image3,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Eminem",
+  },
+  {
+    name: "Batti",
+    time: "today",
+    src: image4,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Seedhe Maut Ft. AB17",
+  },
+  {
+    name: "Two Tone",
+    time: "today",
+    src: image5,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Talha Anjum",
+  },
+  {
+    name: "Kha Se Kha Tak",
+    time: "today",
+    src: image6,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "KR$NA",
+  },
+  {
+    name: "Sitaara",
+    time: "today",
+    src: image1,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Divine Ft. Jonita Gandhi",
+  },
+  {
+    name: "F-16",
+    time: "today",
+    src: image2,
+    alt: "Song poster",
+    duration: "4.40",
+    artist: "Raftaar Ft. Sikhander Khalon",
+  },
+];

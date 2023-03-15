@@ -1,9 +1,14 @@
+import { Avatar } from "@mui/material";
+import { green } from "@mui/material/colors";
 import React from "react";
 
 function Header() {
   return (
-    <div className="col-start-1 col-end-4 row-start-1 row-end-2 bg-[rgba(0,0,0)] text-white">
+    <div className="">
       Header
+      <div>
+        <Avatar sx={{ bgcolor: green[500] }}> AU </Avatar>
+      </div>
     </div>
   );
 }
